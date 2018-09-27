@@ -51,5 +51,57 @@ introductive brainstorming of cs18 jongwon
     *Australia*
       
   ![brainstorming Image]
+  (-about my **dislikes**
+
+  -math
+
+  -chemistry
+
+-about my **move during school life**
+
+  -Elementary School
+
+    *Icheon*
+
+    *Bundang*
+
+    *China*
+
+  -Middle School
+
+    *China*
+
+    *Bundang*
+
+  -High School
+
+    *Bundang*
+
+  -University
+
+    *Bundang*
+
+    *Seoul*
+
+-about my **wishes**
+
+  -country trek
+
+  -traveling
+
+    *Brazil*
+
+    *Africa*
+
+    *Canada*
+
+    *Eastern Europe*
+
+    *Australia*
+
+      
+
+  ![brainstorming Image]
+
   (https://photos.google.com/photo/AF1QipPaqKYDdkkXqQCHVsph9KcpW7JYhUQekhShc1E6)
 
