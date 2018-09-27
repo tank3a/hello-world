@@ -50,6 +50,6 @@ introductive brainstorming of cs18 jongwon
     * *Eastern Europe*
     * *Australia*
 
-  ![brainstorming Image]
-  (https://lh3.googleusercontent.com/bK0O7jiEN64Yn_m91QcFD5fcrr2oSR1EYtiePrMJeVB4scRM3Z1mzYWgYgQquL-kW_iZXHcyop5_)
+  ! [brainstorming Image]
+  (https://photos.google.com/photo/AF1QipPaqKYDdkkXqQCHVsph9KcpW7JYhUQekhShc1E6)
 
