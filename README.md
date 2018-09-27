@@ -2,7 +2,7 @@
 introductive brainstorming of cs18 jongwon
 
 ## brainstorming of "who am I"
-- about my body
+- about my **body**
   - height:171.3cm
   - weight:71kg
   - blood type:B
@@ -51,5 +51,5 @@ introductive brainstorming of cs18 jongwon
     * *Australia*
 
   ![brainstorming Image]
-  (https://photos.google.com/photo/AF1QipPaqKYDdkkXqQCHVsph9KcpW7JYhUQekhShc1E6)
+  (https://lh3.googleusercontent.com/bK0O7jiEN64Yn_m91QcFD5fcrr2oSR1EYtiePrMJeVB4scRM3Z1mzYWgYgQquL-kW_iZXHcyop5_)
 
