@@ -42,7 +42,13 @@ introductive brainstorming of cs18 jongwon
     *Bundang*
     *Seoul*
 -about my **wishes**
-  -
+  -country trek
+  -traveling
+    *Brazil*
+    *Africa*
+    *Canada*
+    *Eastern Europe*
+    *Australia*
       
   
 
