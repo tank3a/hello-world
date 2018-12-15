@@ -51,5 +51,7 @@ introductive brainstorming of cs18 jongwon
     * *Australia*
 
   ![mind_map] 
-  (https://drive.google.com/file/d/1KwoE-yluf682ZnuKAEj-WlIIRjg48YLZ/view?usp=sharing)
+  (
+        hello-world/마인드맵.jpg
+      )
 
